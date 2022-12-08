@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cs1300-wade-wilds/static/css/main.02fa4582.css",
-    "main.js": "/cs1300-wade-wilds/static/js/main.08eb3e31.js",
-    "static/js/787.c1617b06.chunk.js": "/cs1300-wade-wilds/static/js/787.c1617b06.chunk.js",
-    "static/media/profile.gif": "/cs1300-wade-wilds/static/media/profile.d9554c949bcae1721742.gif",
-    "index.html": "/cs1300-wade-wilds/index.html",
-    "main.02fa4582.css.map": "/cs1300-wade-wilds/static/css/main.02fa4582.css.map",
-    "main.08eb3e31.js.map": "/cs1300-wade-wilds/static/js/main.08eb3e31.js.map",
-    "787.c1617b06.chunk.js.map": "/cs1300-wade-wilds/static/js/787.c1617b06.chunk.js.map"
+    "main.css": "/static/css/main.02fa4582.css",
+    "main.js": "/static/js/main.a3408e20.js",
+    "static/js/787.c1617b06.chunk.js": "/static/js/787.c1617b06.chunk.js",
+    "static/media/profile.gif": "/static/media/profile.d9554c949bcae1721742.gif",
+    "index.html": "/index.html",
+    "main.02fa4582.css.map": "/static/css/main.02fa4582.css.map",
+    "main.a3408e20.js.map": "/static/js/main.a3408e20.js.map",
+    "787.c1617b06.chunk.js.map": "/static/js/787.c1617b06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02fa4582.css",
-    "static/js/main.08eb3e31.js"
+    "static/js/main.a3408e20.js"
   ]
 }
