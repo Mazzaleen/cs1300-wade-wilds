@@ -4,7 +4,7 @@ import { SkillsData } from "../../data/SkillsData";
 import { pageVariants, pageTransition } from "../../utils/FramerAnimation";
 import styles from "./skills.module.scss";
 
-const skillsOpen = "<skills>";
+const skillsOpen = "<skills> A listin\' o\' me technical abilities \'n knowledge";
 const skillsClose = "</skills>";
 
 const Skills = () => {

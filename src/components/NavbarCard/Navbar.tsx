@@ -5,6 +5,9 @@ import { IoMenu, IoClose } from "react-icons/io5";
 import { LinksData } from "./LinksData";
 import styles from "./navbar.module.scss";
 
+const name = "Wade Wilds";
+const link =   '/';
+
 const Navbar = () => {
   const [isMenuOpen, setIsmenuOpen] = useState(false);
 
@@ -15,7 +18,11 @@ const Navbar = () => {
   return (
     <>
       <div className={styles.navbar}>
+        
+        <NavLink to={'/'} className={styles.logo}>
         <h2 className={styles.logo}>Wade Wilds</h2>
+        </NavLink>
+
         <div className={styles.desktopitems}>
           {LinksData.map((link) => (
             <NavLink

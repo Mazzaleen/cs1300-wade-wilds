@@ -9,8 +9,8 @@ import styles from "./projects.module.scss";
 
 
 const Flip = require("react-reveal/Flip");
-const projectsOpen = "<projects>";
-const projectsClose = "</projects>";
+const projectsOpen = "<Portfoilo> A collection o\' me showcased Projects, CS1300 \'n beyond";
+const projectsClose = "</Portfoilo>";
 
 const Projects = () => {
   return (

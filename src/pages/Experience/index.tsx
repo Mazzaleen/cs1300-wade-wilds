@@ -5,7 +5,7 @@ import { pageVariants, pageTransition } from "../../utils/FramerAnimation";
 import { ExperienceData } from "../../data/ExperienceData";
 import styles from "./experience.module.scss";
 
-const eduOpen = "<experience>";
+const eduOpen = "<experience> Mi past n\' current experiences";
 const eduClose = "</experience>";
 
 const Experience = () => {

@@ -17,7 +17,7 @@ export const LinksData: LinkType[] = [
     linkTo: '/experience',
   },
   {
-    title: 'Projects',
+    title: 'Portfolio',
     linkTo: '/projects',
   },
   {
