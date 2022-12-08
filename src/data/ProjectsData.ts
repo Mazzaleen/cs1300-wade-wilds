@@ -12,7 +12,7 @@ interface ProjectsType {
 
 export const ProjectsData: ProjectsType[] = [
   {
-    title: 'Figma Redesign| SLAI AI',
+    title: 'SLAI AI',
     description: `Utilized Figma tools to redesign interactive User Interface for Slai, a startup that provides AI solutions for the insurance industry`,
     image: 'src/assets/SLAI.png',
     GitHub: '',
@@ -20,7 +20,7 @@ export const ProjectsData: ProjectsType[] = [
   },
 
   {
-    title: 'Website Resign | Fragantica',
+    title: 'Fragantica',
     description: `Utilized Figma, HTML, CSS, and JavaScript to redesign Fragantica's website`,
     image: 'src/assets/fragantica.png',
     GitHub: 'https://github.com/8mzln8/Responsive-Redesign',
@@ -28,7 +28,7 @@ export const ProjectsData: ProjectsType[] = [
   },
 
   {
-    title: 'Personas Storyboarding | Brown Laundry Machine Interface',
+    title: 'Improving Laundry @ Brown',
     description: `Utilized HTM:5, CSS, and JavaScript to redesign the Brown Laundry Machine Interface`,
     image: "src/assets/bakery.png",
     GitHub: 'https://github.com/8mzln8/CSCI1300-Personas-Storyboarding',
@@ -36,7 +36,7 @@ export const ProjectsData: ProjectsType[] = [
   },
 
   {
-    title: 'Cinder: Tinder for computer science classes at Brown',
+    title: 'Cinder: Tinder for CS Classes',
     description: `Utilized Figma, Adobe and Flutter to design a Tinder-like app for students to find computer science classes at Brown`,
     image: 'assets/Cinder.png',
     GitHub: '',
@@ -44,7 +44,7 @@ export const ProjectsData: ProjectsType[] = [
   },
 
   {
-    title: 'Nested Bakery A/B Testing',
+    title: 'UX Research: Nested Bakery',
     description: `Designed Two interactive User Interfaces for Nested Bakery, For A/B testing purposes. Github link contains A, while hosted link contains B.`,
     image: 'assets/bakery.png',
     GitHub: 'https://www.figma.com/file/UOeTy0nUEqm8wPXHhsC30E/The-Nested-Bakery-Home-Page-Template-(Redesign-A)?node-id=0%3A1&t=t5GRK70BX92yQTbp-0',
@@ -58,7 +58,7 @@ export const ProjectsData: ProjectsType[] = [
     hosted: `https://www.figma.com/file/y6FxyVlCW27pOOFsfNyEGB/Panda?t=t5GRK70BX92yQTbp-0`,
   },
   {
-    title: 'Pokemon Shopping Cart',
+    title: 'Pokemon Markeplace',
     description: `Utilized HTML, CSS, JS and Typescript to create a shopping cart for Pokemon`,
     image: 'assets/pokemon.png',
     GitHub: 'https://github.com/Mazzaleen/ts-cs1300-deployment',
