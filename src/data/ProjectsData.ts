@@ -15,13 +15,13 @@
 // const panda = "src/assets/panda.png";
 // const pokemon = "src/assets/pokemon.png";
 
-const slai ="https://github.com/Mazzaleen/cs1300-wade-wilds/blob/main/src/assets/Screen%20Shot%202022-12-08%20at%202.48.49%20PM.png?raw=true";
-const frag = "https://github.com/Mazzaleen/cs1300-wade-wilds/blob/main/src/assets/Screen%20Shot%202022-12-08%20at%202.51.39%20PM.png?raw=true"
-const laundry = "https://github.com/Mazzaleen/cs1300-wade-wilds/blob/main/src/assets/laundry.png?raw=true";
-const cinder = "https://github.com/Mazzaleen/cs1300-wade-wilds/blob/main/src/assets/cinder.png?raw=true";
-const bakery = "https://github.com/Mazzaleen/cs1300-wade-wilds/blob/main/src/assets/bakery.png?raw=true";
-const panda = "https://github.com/Mazzaleen/cs1300-wade-wilds/blob/main/src/assets/panda.png?raw=true";
-const pokemon = "https://github.com/Mazzaleen/cs1300-wade-wilds/blob/main/src/assets/pokemon.png?raw=true";
+const slai = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/slai.png"
+const frag = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/frag.png"
+const laundry = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/laundry.png";
+const cinder = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/cinder.png";
+const bakery = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/bakery.png";
+const panda = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/panda.png";
+const pokemon = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/pokemon.png";
 
 
 
