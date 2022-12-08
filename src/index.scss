@@ -1,0 +1,25 @@
+@import './ui/fonts';
+@import './ui/colors';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Press Start 2P', cursive;
+  overflow-x: hidden;
+}
+
+
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: $primarylight;
+  border-radius: 4px;
+}
