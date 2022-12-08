@@ -29,23 +29,7 @@ const App = () => {
   );
   };
 
-// export function App() {
-//   return (
-//     <>
-//       <BrowserRouter>
-//         <Navbar />
-//         <Switch>
-//           <Route path="/" exact>  <HomePage /></Route>
-//           <Route path="/about"> <AboutPage />
-//           </Route>
-//           <Route path="/contact">
-//             <ContactPage />
-//           </Route>
-//         </Switch>
-//       </BrowserRouter>
-//     </>
-//   );
-//   };
+
 
 
 
