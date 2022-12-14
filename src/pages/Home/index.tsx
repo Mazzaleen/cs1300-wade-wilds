@@ -3,7 +3,9 @@
 import { AboutData } from "../../data/AboutData";
 import { LinksData } from "../../data/LinksData";
 import styles from "./home.module.scss";
-import profilePic from "../../assets/profile.gif";
+// import profilePic from "../../assets/profile.gif";
+
+const profilepicurl = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/profile.gif";
 
 const Zoom = require("react-reveal/Zoom");
 const welcomeText = `Tis I, Captain ${AboutData.firstName}  ${AboutData.lastName}`;
@@ -12,7 +14,7 @@ const Home = () => {
   return (
     <div className={styles.home}>
       <Zoom cascade>
-        <img src={profilePic} alt='Profile' className={styles.image} />
+        <img src={profilepicurl} alt='Profile' className={styles.image} />
         <h2 className={styles.title}>{welcomeText}</h2>
       </Zoom>
       <Zoom cascade>

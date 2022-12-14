@@ -12,6 +12,9 @@ const Flip = require("react-reveal/Flip");
 const projectsOpen = "<Portfoilo> A collection o\' me showcased Projects, CS1300 \'n beyond";
 const projectsClose = "</Portfoilo>";
 
+
+
+
 const Projects = () => {
   return (
     <div className={styles.projects}>
@@ -33,7 +36,7 @@ const Projects = () => {
                     key={item.title}
                     title={item.title}
                     description={item.description}
-                    image={item.image}
+                    image={item.image} 
                     GitHub={item.GitHub}
                     hosted={item.hosted}
                   />

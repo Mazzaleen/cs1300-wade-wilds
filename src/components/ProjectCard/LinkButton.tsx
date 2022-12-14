@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import { FaGithub, FaRunning } from 'react-icons/fa';
+import { FaBook, FaCompass, FaGithub, FaRunning } from 'react-icons/fa';
 
 import styles from './projectCard.module.scss';
 
@@ -16,8 +16,8 @@ const LinkButton: FC<LinkButtonProps> = (props) => {
       target='_blank'
       rel='noreferrer'
     >
-      {props.isGitHub ? <FaGithub /> : <FaRunning />}
-      {props.isGitHub ? ' GitHub' : ' Visit Website'}
+      {props.isGitHub ? <FaGithub /> : <FaBook />}
+      {props.isGitHub ? ' Code' : ' Learn More'}
     </a>
   );
 };
