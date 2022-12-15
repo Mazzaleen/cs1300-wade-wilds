@@ -2,7 +2,7 @@ import { FC } from "react";
 
 import { LinkButton } from "./LinkButton";
 import styles from "./projectCard.module.scss";
-import { useModal } from './useModal';
+// import { useModal } from './useModal';
 interface ProjectCardProps {
   title: string;
   description: string;
@@ -15,14 +15,14 @@ interface ProjectCardProps {
 }
 
 const ProjectCard: FC<ProjectCardProps> = (props) => {
-  const { isShown, toggle } = useModal();
+  // const { isShown, toggle } = useModal();
   
-  const onConfirm = () => toggle();
-  const onCancel = () => toggle();
+  // const onConfirm = () => toggle();
+  // const onCancel = () => toggle();
   return (
     <div className={styles.projectCard}>
       <div className={styles.imagewrapper}>
-        <img onClick={toggle} src={props.image} alt={props.title} />
+        <img  src={props.image} alt={props.title} />
       </div>
       <div className={styles.content}>
         <h2>{props.title}</h2>

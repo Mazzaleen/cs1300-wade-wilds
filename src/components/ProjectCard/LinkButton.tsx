@@ -17,7 +17,7 @@ const LinkButton: FC<LinkButtonProps> = (props) => {
       rel='noreferrer'
     >
       {props.isGitHub ? <FaGithub /> : <FaBook />}
-      {props.isGitHub ? ' Code' : ' Learn More'}
+      {props.isGitHub ? ' Code' : ' Read More'}
     </a>
   );
 };

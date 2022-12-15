@@ -15,14 +15,14 @@
 // const panda = "src/assets/panda.png";
 // const pokemon = "src/assets/pokemon.png";
 
-const slai = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/slai.png"
-const frag = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/frag.png"
+const slai = "https://media.tenor.com/-ZgulzSdAosAAAAd/robot-pixel-art.gif"
+const frag = "https://media.tenor.com/i7wxBWmnHBgAAAAM/spraying-perfume-piu-piu.gif"
 
-const laundry = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/laundry.png";
-const cinder = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/cinder.png";
-const bakery = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/bakery.png";
-const panda = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/panda.png";
-const pokemon = "https://raw.githubusercontent.com/Mazzaleen/cs1300-wade-wilds/main/src/assets/pokemon.png";
+const laundry = "https://media4.giphy.com/media/EvNfyRC5HMVzi/giphy.gif";
+const cinder = "https://media4.giphy.com/media/26mkhMYkitO7DoJuU/giphy.gif";
+const bakery = "https://i.gifer.com/origin/2a/2a000e7d1441180a6b22a47b489c0b53.gif";
+const panda = "https://i.pinimg.com/originals/57/3c/da/573cdaf5205bebaac51ca29273dd5514.gif";
+const pokemon = "https://64.media.tumblr.com/2601ae27b5ba321ca288a938eec42483/tumblr_pjyf3o3kQx1xcy6bso1_500.gif";
 
 
 
